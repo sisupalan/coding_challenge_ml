@@ -1,7 +1,7 @@
 coding_challenge_ml
 ==============================
 
-A short description of the project.
+POC for telecom sales data.
 
 Project Organization
 ------------
